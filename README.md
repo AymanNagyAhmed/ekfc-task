@@ -1,3 +1,18 @@
+# EKFC-TASK
+## Prerequisites
+- NDocker
+- Docker compose
+
+## Installation
+1. clone the repo```git clone https://github.com/AymanNagyAhmed/ekfc-task.git```
+2. Geve the correct permision for install.sh ``` chmod +x ./install.sh ```
+3. Install the project ```./install.sh```
+4. Swagger docs: http://localhost:4003/api/docs
+5. RabbitMQ GUI: http://localhost:15673/
+6. Databasemanager GUI: http://localhost:8082/
+
+
+
 # Microservices Architecture
 
 This project implements a microservices architecture using users-microservice as gateway and auth-service and using message queuing with RabbitMQ.
