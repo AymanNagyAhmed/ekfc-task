@@ -1,6 +1,6 @@
 # EKFC-TASK
 ## Prerequisites
-- NDocker
+- Docker
 - Docker compose
 
 ## Installation
